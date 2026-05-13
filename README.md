@@ -1,4 +1,4 @@
-# 🔥 XIBUIA - FICA DURO 🔥
+# XIBUIA - STAY HARD 💪
 
 <div align="center">
 
