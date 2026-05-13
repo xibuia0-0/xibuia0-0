@@ -1,20 +1,20 @@
-# 🔥 XIBUIA - STAY HARD 🔥
+# 🔥 XIBUIA - FICA DURO 🔥
 
 <div align="center">
 
-![David Goggins](https://i.pinimg.com/originals/8e/7f/e8/8e7fe8f23f36b97a8ab2df2fcd25a02b.gif)
+![David Goggins Exercitando](https://i.imgur.com/9K2mQ8d.jpg)
 
-### **"The only easy day was yesterday"** - David Goggins
+### **"O único dia fácil foi ontem"** - David Goggins
 
 ---
 
 ## 💪 QUEM EU SOU
 
-Sou **XIBUIA** e vivo pelo **mindset GOGGINS**. Não sou aquele tipo de pessoa que desiste. Minha vida é sobre **embracing the suck**, **staying hard** e **pushing beyond limits**.
+Sou **XIBUIA** e vivo pelo **mindset GOGGINS**. Não sou aquele tipo de pessoa que desiste. Minha vida é sobre **abraçar o sofrimento**, **ficar duro** e **ir além dos limites**.
 
 Estudante? SIM. Mas mais que isso - sou uma **máquina de disciplina, resiliência e determinação infinita**.
 
-> *"You are not mentally tough because you went for a run. Mental toughness is earned through suffering."* - David Goggins
+> *"Você não é mentalmente forte porque correu. Força mental é conquistada através do sofrimento."* - David Goggins
 
 ---
 
@@ -26,11 +26,11 @@ Estudante? SIM. Mas mais que isso - sou uma **máquina de disciplina, resiliênc
 - ❌ Fraqueza é uma escolha
 
 ### 💪 A Verdade
-- ✅ **STAY HARD** - Sempre. Em tudo.
-- ✅ **EMBRACE THE SUCK** - Sofrer é o preço
+- ✅ **FICA DURO** - Sempre. Em tudo.
+- ✅ **ABRAÇA O SOFRIMENTO** - Sofrer é o preço
 - ✅ **COOKIE JAR** - Cada vitória conta
-- ✅ **40% RULE** - Você é capaz de 60% mais
-- ✅ **ACCOUNTABILITY** - Você é responsável
+- ✅ **REGRA DOS 40%** - Você é capaz de 60% mais
+- ✅ **RESPONSABILIDADE** - Você é responsável por tudo
 
 ---
 
@@ -55,9 +55,9 @@ Estou aprendendo e dominando ferramentas para **construir, criar e dominar**:
 | **DISCIPLINA** | Não faço porque gosto, faço porque preciso |
 | **RESILIÊNCIA** | Toda pancada me fortalece |
 | **OBSESSÃO** | Estudar não é hobby, é minha vida |
-| **ACCOUNTABILITY** | Ninguém me salva, apenas EU |
+| **RESPONSABILIDADE** | Ninguém me salva, apenas EU |
 | **PROPÓSITO** | Cada linha de código é uma vitória |
-| **MENTALIDADE GOGGINS** | The only easy day was yesterday |
+| **MINDSET GOGGINS** | O único dia fácil foi ontem |
 
 ---
 
@@ -71,7 +71,7 @@ Estou aprendendo e dominando ferramentas para **construir, criar e dominar**:
 
 ## 🎯 MEUS PROJETOS
 
-Projetos em desenvolvimento. **STAY TUNED** - Coisas INCRÍVEIS estão vindo.
+Projetos em desenvolvimento. **FICA ATENTO** - Coisas INCRÍVEIS estão vindo.
 
 Cada projeto será uma **prova de resiliência e disciplina**.
 
@@ -95,30 +95,32 @@ Quer discutir mentalidade, desafios e crescimento?
 Não estou aqui para ser como todo mundo. Estou aqui para:
 - ✅ **Dominar desenvolvimento web**
 - ✅ **Construir projetos que importam**
-- ✅ **Inspirar outros a STAY HARD**
+- ✅ **Inspirar outros a FICAR DURO**
 - ✅ **Nunca parar, nunca desistir**
 - ✅ **Deixar um legado de DISCIPLINA**
 
 ---
 
-## 💭 CITAÇÕES QUE VIVEM EM MIM
+## 💭 FRASES QUE VIVEM EM MIM
 
-> *"Talent is not enough. You need discipline."* - David Goggins
+> *"Talento não é suficiente. Você precisa de disciplina."* - David Goggins
 
-> *"The worst thing that can happen is success."* - David Goggins
+> *"A pior coisa que pode acontecer é o sucesso fácil."* - David Goggins
 
-> *"Don't stop when you're tired. Stop when you're DONE."*
+> *"Não pare quando estiver cansado. Pare quando TERMINAR."*
 
-> *"Suffer in silence - it builds character."* - David Goggins
+> *"Sofra em silêncio - isso constrói caráter."* - David Goggins
+
+> *"Você é mais forte do que pensa. Acredite."* - David Goggins
 
 ---
 
 <div align="center">
 
-### 🔥 STAY HARD 🔥
+### 🔥 FICA DURO 🔥
 
-*Feito com **DISCIPLINA** e **MENTALIDADE GOGGINS** por **XIBUIA***
+*Feito com **DISCIPLINA** e **MINDSET GOGGINS** por **XIBUIA***
 
-**The only easy day was yesterday**
+**O único dia fácil foi ontem**
 
 </div>
