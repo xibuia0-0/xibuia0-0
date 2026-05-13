@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![David Goggins Exercitando](https://i.imgur.com/9K2mQ8d.jpg)
+(cfbb42a173c6cb1c0e9bacb11eaaa0do.jpg)
 
 ### **"O único dia fácil foi ontem"** - David Goggins
 
