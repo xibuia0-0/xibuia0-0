@@ -4,13 +4,15 @@ Meu nome é **Xibuia** e sou um **estudante apaixonado por desenvolvimento web**
 
 ---
 
-## 🎮 Contribuições - Pacman Edition
+## ⚡ Gojo Satoru - Jujutsu Kaisen Edition
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xibuia0-0/xibuia0-0/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xibuia0-0/xibuia0-0/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xibuia0-0/xibuia0-0/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+
+![Gojo Satoru](https://media.giphy.com/media/xT9IgEx8SbQ0teblYQ/giphy.gif)
+
+### *"A ceiling isn't a ceiling if I'm the one looking down."* - Gojo Satoru
+
+</div>
 
 ---
 
@@ -42,6 +44,7 @@ Tecnologias que estou planejando aprender em breve:
 🎨 **Criatividade** - Amo criar designs e interfaces web
 🔧 **Resolução de Problemas** - Desafios me motivam a aprender mais
 📚 **Crescimento Contínuo** - Sempre buscando evoluir e melhorar
+⚡ **Determinação Infinita** - Como Gojo, sempre no topo
 
 ---
 
@@ -82,6 +85,6 @@ Tornar-me um desenvolvedor web full-stack competente, criando projetos que faça
 
 ### "A obsessão pelos estudos é o combustível para o sucesso!" 🚀
 
-Feito com ❤️ por **Xibuia**
+*Feito com ❤️ por **Xibuia** - Sempre no topo, como Gojo* ⚡
 
 </div>
