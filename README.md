@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![David Goggins](https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif)
+![David Goggins](https://i.pinimg.com/originals/8e/7f/e8/8e7fe8f23f36b97a8ab2df2fcd25a02b.gif)
 
 ### **"The only easy day was yesterday"** - David Goggins
 
