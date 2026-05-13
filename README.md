@@ -1,70 +1,85 @@
-# Olá! 👋 Bem-vindo ao meu perfil GitHub
-
-Meu nome é **Xibuia** e sou um **estudante apaixonado por desenvolvimento web**! 🎓💻
-
----
-
-## ⚡ Gojo Satoru - Jujutsu Kaisen Edition
+# 🔥 XIBUIA - STAY HARD 🔥
 
 <div align="center">
 
-![Gojo Satoru](https://media.giphy.com/media/xT9IgEx8SbQ0teblYQ/giphy.gif)
+![David Goggins](https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif)
 
-### *"A ceiling isn't a ceiling if I'm the one looking down."* - Gojo Satoru
-
-</div>
+### **"The only easy day was yesterday"** - David Goggins
 
 ---
 
-## 📖 Sobre Mim
+## 💪 QUEM EU SOU
 
-Sou um **estudante dedicado com obsessão pelos estudos**! Estou sempre buscando aprender mais sobre desenvolvimento web, com foco em criar interfaces bonitas e funcionais. Acredito que a educação contínua é o caminho para se tornar um excelente desenvolvedor.
+Sou **XIBUIA** e vivo pelo **mindset GOGGINS**. Não sou aquele tipo de pessoa que desiste. Minha vida é sobre **embracing the suck**, **staying hard** e **pushing beyond limits**.
 
-Minha jornada está começando, mas minha determinação é infinita! 🚀
+Estudante? SIM. Mas mais que isso - sou uma **máquina de disciplina, resiliência e determinação infinita**.
+
+> *"You are not mentally tough because you went for a run. Mental toughness is earned through suffering."* - David Goggins
 
 ---
 
-## 🛠️ Tecnologias & Habilidades
+## ⚡ O MINDSET GOGGINS
 
-Atualmente estou aprendendo e dominando:
+### 🖤 A Realidade
+- ❌ Conforto é o inimigo
+- ❌ Desculpas matam sonhos
+- ❌ Fraqueza é uma escolha
+
+### 💪 A Verdade
+- ✅ **STAY HARD** - Sempre. Em tudo.
+- ✅ **EMBRACE THE SUCK** - Sofrer é o preço
+- ✅ **COOKIE JAR** - Cada vitória conta
+- ✅ **40% RULE** - Você é capaz de 60% mais
+- ✅ **ACCOUNTABILITY** - Você é responsável
+
+---
+
+## 🛠️ MINHA ARMA - TECNOLOGIAS
+
+Estou aprendendo e dominando ferramentas para **construir, criar e dominar**:
 
 - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
-Tecnologias que estou planejando aprender em breve:
+**Próximas armas no arsenal:**
 - JavaScript
 - React
-- Mais frameworks e ferramentas web
+- Ferramentas que vão me tornar LENDÁRIO
 
 ---
 
-## 💪 O que me Move
+## 🔥 O QUE ME MOVE
 
-✨ **Obsessão pelos Estudos** - Dedico-me intensamente ao aprendizado
-🎨 **Criatividade** - Amo criar designs e interfaces web
-🔧 **Resolução de Problemas** - Desafios me motivam a aprender mais
-📚 **Crescimento Contínuo** - Sempre buscando evoluir e melhorar
-⚡ **Determinação Infinita** - Como Gojo, sempre no topo
-
----
-
-## 🌟 Meus Projetos
-
-Em breve vou compartilhar meus projetos aqui! Fique atento! 👀
+| Força | Descrição |
+|-------|-----------|
+| **DISCIPLINA** | Não faço porque gosto, faço porque preciso |
+| **RESILIÊNCIA** | Toda pancada me fortalece |
+| **OBSESSÃO** | Estudar não é hobby, é minha vida |
+| **ACCOUNTABILITY** | Ninguém me salva, apenas EU |
+| **PROPÓSITO** | Cada linha de código é uma vitória |
+| **MENTALIDADE GOGGINS** | The only easy day was yesterday |
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 ESTATÍSTICAS - MEU PROGRESSO
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xibuia0-0&theme=radical&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xibuia0-0&theme=radical&show_icons=true&bg_color=0d1117&text_color=ffffff&title_color=ff0000&icon_color=ff0000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xibuia0-0&theme=radical&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xibuia0-0&theme=radical&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=ff0000)
 
 ---
 
-## 🤝 Conecte-se Comigo
+## 🎯 MEUS PROJETOS
 
-Quer conversar ou colaborar? Me encontre aqui:
+Projetos em desenvolvimento. **STAY TUNED** - Coisas INCRÍVEIS estão vindo.
+
+Cada projeto será uma **prova de resiliência e disciplina**.
+
+---
+
+## 🌍 CONECTE-SE COMIGO
+
+Quer discutir mentalidade, desafios e crescimento?
 
 <div align="center">
 
@@ -75,16 +90,35 @@ Quer conversar ou colaborar? Me encontre aqui:
 
 ---
 
-## 🎯 Meu Objetivo
+## 🏆 MINHA MISSÃO
 
-Tornar-me um desenvolvedor web full-stack competente, criando projetos que façam diferença e contribuindo para a comunidade de desenvolvimento. Minha obsessão pelos estudos me guia a alcançar esse objetivo! 💪
+Não estou aqui para ser como todo mundo. Estou aqui para:
+- ✅ **Dominar desenvolvimento web**
+- ✅ **Construir projetos que importam**
+- ✅ **Inspirar outros a STAY HARD**
+- ✅ **Nunca parar, nunca desistir**
+- ✅ **Deixar um legado de DISCIPLINA**
+
+---
+
+## 💭 CITAÇÕES QUE VIVEM EM MIM
+
+> *"Talent is not enough. You need discipline."* - David Goggins
+
+> *"The worst thing that can happen is success."* - David Goggins
+
+> *"Don't stop when you're tired. Stop when you're DONE."*
+
+> *"Suffer in silence - it builds character."* - David Goggins
 
 ---
 
 <div align="center">
 
-### "A obsessão pelos estudos é o combustível para o sucesso!" 🚀
+### 🔥 STAY HARD 🔥
 
-*Feito com ❤️ por **Xibuia** - Sempre no topo, como Gojo* ⚡
+*Feito com **DISCIPLINA** e **MENTALIDADE GOGGINS** por **XIBUIA***
+
+**The only easy day was yesterday**
 
 </div>
